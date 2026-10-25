@@ -1,0 +1,6 @@
+{
+  "name": "intent-intervention-engine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {"server": "npm --prefix server start", "server:dev": "npm --prefix server run dev", "test": "npm --prefix server test"}
+}
